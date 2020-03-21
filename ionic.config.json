@@ -1,5 +1,7 @@
 {
   "name": "shopingfood",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
